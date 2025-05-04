@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me: 0810537848
 - 😄 Pronouns: he, him, his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs! 😉
+
 
 <!---
 EmskayKayson/EmskayKayson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
